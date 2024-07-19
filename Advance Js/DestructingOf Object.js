@@ -1,5 +1,5 @@
-const person = { name: 'John', age: 30 };
+const person = { name: 'Khushi Chhabadia', age: 18 };
 const { name, age } = person;
 
-console.log(name); // John
-console.log(age); // 30
+console.log(name); // Khushi Chhabadia
+console.log(age); // 18
